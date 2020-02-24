@@ -1,0 +1,31 @@
+_repo: Pastor-Hallin_61480
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Klett, Ingeborg
+    gutenberg_agent_id: '51453'
+    url: http://www.gutenberg.org/2009/agents/51453
+creator:
+  author:
+    agent_name: Geijerstam, Gustaf af
+    aliases:
+    - Geijerstam, Gustav
+    - Af Geijerstam, Gustaf
+    birthdate: 1858
+    deathdate: 1909
+    gutenberg_agent_id: '33352'
+    url: http://www.gutenberg.org/2009/agents/33352
+    wikipedia: http://sv.wikipedia.org/wiki/Gustaf_af_Geijerstam
+description: ''
+gutenberg_issued: '2020-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61480'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pastor Hallin
+url: http://www.gutenberg.org/ebooks/61480
